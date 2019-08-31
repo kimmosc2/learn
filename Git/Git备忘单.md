@@ -1,3 +1,7 @@
+Git备忘单  
+===
+GitHub官方资料:https://github.github.com/training-kit/downloads/zh_CN/github-git-cheat-sheet/  
+  
 回退版本  
 `git reset --hard commit_id(HEAD^和HEAD~1)`  
   
